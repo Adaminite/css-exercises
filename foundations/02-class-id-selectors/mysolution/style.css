@@ -1,0 +1,24 @@
+*{
+    font-family: sans-serif;
+}
+
+.small, .cooler {
+    background-color: lightpink; 
+    color: black; 
+}
+
+.cooler{
+    font-size: 32px;
+}
+
+#one{
+    font-size: 40px;
+    color:blue;
+}
+
+#two{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 26px;
+    color: black;
+}
